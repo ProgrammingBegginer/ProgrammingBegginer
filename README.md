@@ -1,4 +1,4 @@
 
 Stepik_course_homework
 Hello_ eweryone
-nrfnkfn
+Python_auotest
